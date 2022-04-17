@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <link rel = "stylesheet" href = '/static/plotly.css'/>
+  </head>
+  <body>
+    <h1>Here is some information on the area and rentals currently listed there:</h1>
+    <div id = 'chart' class = 'chart' style = "position: relative; width: 1200px; height: 725px"></div>
+  </body>
+  <script src = 'https://cdn.plot.ly/plotly-latest.min.js'></script>
+  <script type = 'text/javascript'>
+    var graphs = {{graphJSON | safe}};
+      Plotly.plot('chart',graphs,{})
+  </script>
+</html>

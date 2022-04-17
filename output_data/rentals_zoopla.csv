@@ -1,0 +1,766 @@
+,type,bedrooms,bathrooms,nearest_station,address,price,postcode,size_imputed
+0,flat,2,2,0.0,"Bramham Gardens, London SW5",4312,SW5,1058.3333333333333
+1,terraced house,4,2,0.2,"Leigh Road, East Ham, London E6",2100,E6,1058.3333333333333
+2,property,3,2,0.0,"Mostyn Road, London SW19",2350,SW19,1058.3333333333333
+3,detached house,3,1,0.1,"Overdale Road, London W5",2102,W5,1058.3333333333333
+4,flat,1,1,0.1,"The Filaments, Wandsworth, London SW18",1825,SW18,1058.3333333333333
+5,flat,2,2,0.2,"Channelsea House, London E15",1800,E15,1058.3333333333333
+6,flat,2,2,0.1,"Upper Richmond Road, London SW15",2300,SW15,1058.3333333333333
+7,flat,1,1,0.3,"Overton Road, Sutton SM2",1025,SM2,1058.3333333333333
+8,flat,1,1,0.1,"Kirk Rise, Sutton SM1",1000,SM1,1058.3333333333333
+9,flat,2,1,0.1,"Marlins Close, Sutton SM1",1200,SM1,1058.3333333333333
+10,flat,1,1,0.2,"Coney Burrows, London E4",995,E4,1058.3333333333333
+11,end terrace house,2,1,0.3,"Wrotham Road, Ealing, London W13",1940,W13,1058.3333333333333
+12,flat,1,1,0.1,"Great Dover Street, London SE1",1800,SE1,1058.3333333333333
+13,terraced house,3,2,0.2,"Victory Road, London SW19",3200,SW19,1058.3333333333333
+14,flat,2,1,0.1,"Elmers End Road, Beckenham BR3",1350,BR3,1058.3333333333333
+15,property,4,4,0.1,"Elm Road, London E7",2500,E7,1058.3333333333333
+16,detached house,3,1,0.1,"Sheen Road, Richmond TW9",2995,TW9,1058.3333333333333
+17,flat,3,2,0.1,"Gilpin Avenue, East Sheen, London, UK SW14",1950,UK SW14,1058.3333333333333
+18,flat,2,2,0.2,"Montrose Building, 4 Malthouse Road, London SW11",2750,SW11,1058.3333333333333
+19,maisonette,3,2,0.2,"Madrid Road, Barnes, London SW13",3500,SW13,1058.3333333333333
+20,end terrace house,5,2,0.1,"Listowel Road, Dagenham RM10",1900,RM10,1058.3333333333333
+21,flat,2,1,0.1,"London, London W1G",3800,W1G,1058.3333333333333
+22,semi-detached house,3,1,0.1,"Maycross Avenue, Morden SM4",2400,SM4,1058.3333333333333
+23,semi-detached house,3,1,0.1,"St. James Avenue, Sutton SM1",1850,SM1,1058.3333333333333
+24,flat,2,2,0.0,"Bramham Gardens, London SW5",4312,SW5,1058.3333333333333
+25,terraced house,4,2,0.2,"Leigh Road, East Ham, London E6",2100,E6,1058.3333333333333
+26,property,3,2,0.0,"Mostyn Road, London SW19",2350,SW19,1058.3333333333333
+27,detached house,3,1,0.1,"Overdale Road, London W5",2102,W5,1058.3333333333333
+28,flat,1,1,0.1,"The Filaments, Wandsworth, London SW18",1825,SW18,1058.3333333333333
+29,flat,2,2,0.2,"Channelsea House, London E15",1800,E15,1058.3333333333333
+30,flat,2,2,0.1,"Upper Richmond Road, London SW15",2300,SW15,1058.3333333333333
+31,flat,1,1,0.3,"Overton Road, Sutton SM2",1025,SM2,1058.3333333333333
+32,flat,1,1,0.1,"Kirk Rise, Sutton SM1",1000,SM1,1058.3333333333333
+33,flat,2,1,0.1,"Marlins Close, Sutton SM1",1200,SM1,1058.3333333333333
+34,flat,1,1,0.2,"Coney Burrows, London E4",995,E4,1058.3333333333333
+35,end terrace house,2,1,0.3,"Wrotham Road, Ealing, London W13",1940,W13,1058.3333333333333
+36,flat,1,1,0.1,"Great Dover Street, London SE1",1800,SE1,1058.3333333333333
+37,terraced house,3,2,0.2,"Victory Road, London SW19",3200,SW19,1058.3333333333333
+38,flat,2,1,0.1,"Elmers End Road, Beckenham BR3",1350,BR3,1058.3333333333333
+39,property,4,4,0.1,"Elm Road, London E7",2500,E7,1058.3333333333333
+40,detached house,3,1,0.1,"Sheen Road, Richmond TW9",2995,TW9,1058.3333333333333
+41,flat,3,2,0.1,"Gilpin Avenue, East Sheen, London, UK SW14",1950,UK SW14,1058.3333333333333
+42,flat,2,2,0.2,"Montrose Building, 4 Malthouse Road, London SW11",2750,SW11,1058.3333333333333
+43,maisonette,3,2,0.2,"Madrid Road, Barnes, London SW13",3500,SW13,1058.3333333333333
+44,end terrace house,5,2,0.1,"Listowel Road, Dagenham RM10",1900,RM10,1058.3333333333333
+45,flat,2,1,0.1,"London, London W1G",3800,W1G,1058.3333333333333
+46,semi-detached house,3,1,0.1,"Maycross Avenue, Morden SM4",2400,SM4,1058.3333333333333
+47,semi-detached house,3,1,0.1,"St. James Avenue, Sutton SM1",1850,SM1,1058.3333333333333
+48,bungalow,3,1,0.3,"Repton Road, Orpington BR6",2050,BR6,1058.3333333333333
+49,flat,2,2,0.2,"Oval Road, London NW1",3445,NW1,1058.3333333333333
+50,end terrace house,9,3,0.3,"Rays Avenue, Edmonton, London N18",4000,N18,1058.3333333333333
+51,flat,2,2,0.3,"Charles Clowes Walk, London SW11",4983,SW11,1058.3333333333333
+52,maisonette,4,2,0.2,"Levita House, Chalton Street NW1",4117,NW1,1058.3333333333333
+53,detached house,6,4,0.2,"Wandle Manor, London Road, Wallington SM6",5000,SM6,1058.3333333333333
+54,flat,2,1,0.1,"Oakley Close, Isleworth TW7",1450,TW7,581
+55,flat,1,1,0.1,"Finchley Road, Temple Fortune NW11",1452,NW11,1058.3333333333333
+56,terraced house,2,1,0.2,"Canonsleigh Road, Dagenham RM9",1350,RM9,1058.3333333333333
+57,flat,2,1,0.0,"Euston Road, London NW1",3142,NW1,1058.3333333333333
+58,terraced house,2,1,0.1,"Borland Road, London SE15",1850,SE15,1058.3333333333333
+59,flat,2,1,0.2,"Aldrington Road, London SW16",1580,SW16,1058.3333333333333
+60,flat,2,1,0.1,"Kenton Lane, Harrow HA3",1525,HA3,1058.3333333333333
+61,flat,2,1,0.1,"Merton Road, Southfields SW18",1725,SW18,623
+62,flat,2,1,0.1,"Finchley Road, Temple Fortune NW11",1712,NW11,1058.3333333333333
+63,flat,1,1,0.1,"Streatham Common North, London SW16",1500,SW16,1058.3333333333333
+64,,4,2,0.0,"Milligan Street, London E14",3500,E14,1058.3333333333333
+65,flat,2,2,0.2,"Flat 1003, London SE18",2400,SE18,1058.3333333333333
+66,flat,2,1,0.2,"Becontree Avenue, Becontree, Dagenham RM8",1300,RM8,1058.3333333333333
+67,semi-detached house,3,1,0.1,"Ripple Road, Barking IG11",1900,IG11,1058.3333333333333
+68,flat,2,1,0.1,"Wellesley Rd, Croydon CR0",1249,CR0,1058.3333333333333
+69,flat,2,1,0.1,"Earlsfield Road, London SW18",1700,SW18,1058.3333333333333
+70,maisonette,2,1,0.1,"Surbiton, Surrey KT6",1450,KT6,1058.3333333333333
+71,flat,3,1,0.1,"Anselm Rd, Fulham SW6",1900,SW6,1058.3333333333333
+72,flat,1,1,0.1,"Albemarle Road, Beckenham BR3",1100,BR3,1058.3333333333333
+73,flat,1,1,0.1,"Great Slades, Potters Bar EN6",1000,EN6,1058.3333333333333
+74,property,4,3,0.1,"Greyhound Road, London W6",3683,W6,1058.3333333333333
+75,flat,1,1,0.1,"Woodhouse Road, London N12",1148,N12,1058.3333333333333
+76,terraced house,3,2,0.1,"Ford Road, Dagenham RM9",1650,RM9,1058.3333333333333
+77,flat,1,1,0.2,"The Paragon, London SE3",1675,SE3,1058.3333333333333
+78,terraced house,4,1,0.2,"Marston Avenue, Dagenham RM10",1675,RM10,1058.3333333333333
+79,maisonette,3,1,0.1,"East Barnet Road, East Barnet EN4",1600,EN4,1058.3333333333333
+80,flat,1,1,0.2,"Vernon Road, Ilford IG3",950,IG3,1058.3333333333333
+81,detached house,6,5,0.1,"Waggon Road, Hadley Wood EN4",24000,EN4,12000
+82,flat,1,1,0.2,"Junction Road, London N19",1350,N19,1058.3333333333333
+83,flat,2,2,0.1,"Merrick Road, Southall UB2",1660,UB2,1058.3333333333333
+84,flat,1,1,0.1,"Merrick Road, Southall UB2",1442,UB2,1058.3333333333333
+85,terraced house,2,1,0.1,"Garrick Drive, Thamesmead, London SE28",1400,SE28,1058.3333333333333
+86,terraced house,3,1,0.2,"Horns Road, Ilford IG6",1750,IG6,1058.3333333333333
+87,flat,2,1,0.0,"Roan Street, London SE10",1850,SE10,1058.3333333333333
+88,flat,2,1,0.1,"Ravenscourt Park, London W6",3380,W6,676
+89,flat,2,2,0.5,"Oxford Road, Denham, Uxbridge UB9",1300,UB9,1058.3333333333333
+90,flat,2,1,0.1,"Earl's Court Square, London SW5",3250,SW5,1058.3333333333333
+91,flat,2,2,0.3,"William Morris Way, London SW6",2383,SW6,1058.3333333333333
+92,detached house,3,2,0.0,"Kaine Place, Croydon CR0",2400,CR0,1058.3333333333333
+93,flat,3,1,0.1,"Bow, Bow E3",1980,Bow E3,1058.3333333333333
+94,flat,2,1,0.3,"Gatliff Road, London SW1W",3000,SW1W,1058.3333333333333
+95,flat,3,4,0.2,"Cashmere Wharf, London Dock, London E1W",7000,E1W,1058.3333333333333
+96,flat,4,1,0.0,"Undine Street, Tooting SW17",2899,SW17,1058.3333333333333
+97,flat,1,2,0.1,"The Tannery, 1 New Tannery Way, London SE1",2300,SE1,1058.3333333333333
+98,terraced house,4,2,0.0,"Sheridan Road, London E12",1975,E12,1058.3333333333333
+99,flat,2,1,0.1,"Merrick Road, Southall, Middlesex UB2",1660,UB2,868
+100,semi-detached house,4,2,0.2,"Sandringham Gardens, North Finchley N12",3098,N12,1058.3333333333333
+101,flat,4,4,0.1,"St John`S Wood, London NW8",8883,NW8,2135
+102,flat,1,1,0.2,"Myrtle Road, London E6",1500,E6,614
+103,flat,3,2,0.1,"Bayswater, London W2",6327,W2,944
+104,flat,2,2,0.0,"East Acton Lane, London W3",2300,W3,776
+105,flat,3,1,0.1,"Queensway, London W2",2350,W2,1170
+106,flat,3,1,0.1,"Holloway Road, Holloway, London N7",2800,N7,1058.3333333333333
+107,flat,2,2,0.1,"St. Matthews Court, Forge Lane, Northwood, Greater London HA6",1495,HA6,1058.3333333333333
+108,flat,1,1,0.3,"Woodland Rise, London N10",1650,N10,1058.3333333333333
+109,flat,1,1,0.1,"Ivy Point, St Andrews, Bromley-By-Bow E3",1560,E3,1058.3333333333333
+110,flat,2,1,0.1,"Hornton Street, London W8",2825,W8,1058.3333333333333
+111,detached house,4,2,0.5,"Mawney Road, Romford, Essex RM7",2100,RM7,1058.3333333333333
+112,flat,3,3,0.1,"Monck Street, London SW1P",4658,SW1P,1058.3333333333333
+113,flat,3,2,0.1,"Westmark Tower, 1 Newcastle Place, London W2",6250,W2,1221
+114,detached house,3,2,0.8,"Glanville Way, Epsom KT19",2300,KT19,1058.3333333333333
+115,property,3,1,0.1,"Abbotsbury Road, Morden SM4",1800,SM4,1058.3333333333333
+116,end terrace house,3,1,0.3,"Ockley Road, Croydon CR0",1600,CR0,1058.3333333333333
+117,flat,1,1,0.1,"Crompton House, Venice Court W2",2600,W2,1058.3333333333333
+118,flat,1,1,0.2,"Clapton Passage, London E5",1899,E5,1058.3333333333333
+119,bungalow,2,1,0.1,"Hamlet Gardens, Ravenscourt Park W6",3380,W6,1058.3333333333333
+120,flat,3,1,0.1,"Listria Park, London N16",2200,N16,1058.3333333333333
+121,flat,1,1,0.3,"Elm Park Road, London N21",997,N21,1058.3333333333333
+122,flat,2,1,0.2,"Digby Crescent, London N4",1595,N4,1058.3333333333333
+123,terraced house,3,1,0.2,"Ferney Road, East Barnet, London EN4",1850,EN4,1058.3333333333333
+124,flat,2,1,0.1,"Sussex Way, London N7",1800,N7,1058.3333333333333
+125,flat,2,2,0.1,"Chalkhill Road, Wembley HA9",1600,HA9,1058.3333333333333
+126,flat,2,2,0.2,"Maxim Apartments, Wheeler Place, Bromley BR2",1500,BR2,1058.3333333333333
+127,flat,3,2,0.1,"Umfreville Road, London N4",1850,N4,1058.3333333333333
+128,flat,2,2,0.2,"Grand Canal Apartments, London N1",2730,N1,1058.3333333333333
+129,terraced house,4,2,0.3,"Paul Gardens, Croydon CR0",2250,CR0,1058.3333333333333
+130,semi-detached house,3,1,0.2,"Hillview Gardens, Harrow HA2",1950,HA2,1058.3333333333333
+131,flat,1,1,0.1,"Bornedene, Potters Bar EN6",1150,EN6,1058.3333333333333
+132,maisonette,3,1,0.1,"Samuel Street, Woolwich, London SE18",1375,SE18,1058.3333333333333
+133,flat,2,1,0.2,"Harrow Road, Wembley HA0",1425,HA0,1058.3333333333333
+134,semi-detached house,3,1,0.1,"Bellarmine Close, West Thamesmead, London SE28",1495,SE28,1058.3333333333333
+135,flat,2,1,0.1,"Hurst Court, Southend Road, Beckenham BR3",1250,BR3,1058.3333333333333
+136,terraced house,4,2,0.1,"Manor Road, Mitcham CR4",2200,CR4,1058.3333333333333
+137,flat,1,1,0.3,"Middlefields, Croydon CR0",1050,CR0,1058.3333333333333
+138,flat,2,2,0.0,"Brechin Place, South Kensington, London SW7",9100,SW7,1331
+139,flat,1,1,0.0,"Hanover Steps, St. Georges Fields, London W2",1950,W2,1058.3333333333333
+140,flat,2,1,0.2,"Tooting High Street, London SW17",1700,SW17,1058.3333333333333
+141,flat,3,2,0.1,"Cromwell Road, Kingston Upon Thames KT2",2250,KT2,1058.3333333333333
+142,flat,1,1,0.2,"Gowing House, 4 Drapers Yard, London SW18",1925,SW18,1058.3333333333333
+143,flat,1,1,0.2,"Church Road, Richmond, Surrey TW10",1300,TW10,1058.3333333333333
+144,flat,1,1,0.1,"Cromwell Road, Kingston Upon Thames KT2",1450,KT2,1058.3333333333333
+145,terraced house,3,1,0.2,"Cherrywood Drive, London SW15",3000,SW15,1058.3333333333333
+146,property,1,1,0.2,"John Gooch Drive, Enfield EN2",1050,EN2,1058.3333333333333
+147,flat,3,2,0.4,"Hillbrow Road, Bromley BR1",2000,BR1,1058.3333333333333
+148,flat,1,1,0.2,"The Crescent, Sidcup DA14",1100,DA14,1058.3333333333333
+149,flat,3,1,0.1,"Caveside Close, Chislehurst BR7",1500,BR7,1058.3333333333333
+150,flat,2,1,0.2,"3 Fairfield Road, Croydon CR0",1450,CR0,1058.3333333333333
+151,flat,2,2,0.1,"Courtfield Gardens, London SW5",3467,SW5,1058.3333333333333
+152,flat,1,1,0.1,"Dibden Street, Islington, London N1",1550,N1,1058.3333333333333
+153,flat,1,1,0.1,"Leeland Terrace, London W13",1300,W13,1058.3333333333333
+154,terraced house,2,2,0.1,"Flemming Avenue, Ruislip, Middlesex HA4",1500,HA4,1058.3333333333333
+155,flat,1,1,0.1,"Pelham Court, 145 Fulham Road, Chelsea, London SW3",3575,SW3,1058.3333333333333
+156,maisonette,1,1,0.2,"St. Gregory Close, Ruislip Manor, Ruislip HA4",1150,HA4,1058.3333333333333
+157,flat,2,1,0.2,"The Avenue, Beckenham BR3",1400,BR3,1058.3333333333333
+158,end terrace house,5,2,0.2,"Craven Garden, Barkingside IG6",2350,IG6,1058.3333333333333
+159,flat,3,2,0.1,"Potier Street, London SE1",2275,SE1,1058.3333333333333
+160,flat,3,2,0.3,"Schooner Road, London E16",2600,E16,1058.3333333333333
+161,flat,3,3,0.1,"St Julians Road, London NW6",2900,NW6,1058.3333333333333
+162,flat,2,2,0.2,"Boardwalk Place, London E14",2100,E14,1058.3333333333333
+163,flat,1,1,0.2,"Elm Park Chambers, 275-277 Fulham Road, London SW10",2250,SW10,1058.3333333333333
+164,property,5,6,0.2,"Wilton Place, London SW1X",28167,SW1X,1058.3333333333333
+165,flat,3,3,0.0,"Gloucester Avenue, London NW1",5347,NW1,1058.3333333333333
+166,flat,2,2,0.1,"Queen Mary Avenue, London E18",1700,E18,1058.3333333333333
+167,maisonette,2,1,0.2,"Vancouver Road, London SE23",1700,SE23,1058.3333333333333
+168,semi-detached house,4,2,0.1,"Mellowes Road, Hornchurch RM11",2150,RM11,1058.3333333333333
+169,flat,1,1,0.1,"Liverpool Road, London N1",1950,N1,1058.3333333333333
+170,flat,2,1,0.1,"Northolt Road, Harrow HA2",1500,HA2,1058.3333333333333
+171,flat,1,1,0.1,"Newington Green Road, London N1",2600,N1,1058.3333333333333
+172,flat,3,1,0.1,"Vertex Tower, London SE8",2350,SE8,1058.3333333333333
+173,flat,1,1,0.2,"Branch Hill, London NW3",1550,NW3,1058.3333333333333
+174,flat,2,1,0.2,"Grange Park Road, London E10",1420,E10,1058.3333333333333
+175,flat,2,1,0.2,"Wellington Road, Enfield EN1",1400,EN1,1058.3333333333333
+176,flat,1,1,0.1,"Haringey Park, London N8",1600,N8,1058.3333333333333
+177,flat,2,1,0.1,"Carlton Vale, London NW6",2275,NW6,1058.3333333333333
+178,flat,2,2,0.1,"Hill Street, London W1J",4117,W1J,1058.3333333333333
+179,property,1,1,0.1,"Hill Street, London W1J",2925,W1J,1058.3333333333333
+180,flat,3,2,0.2,"Woodstock Road, London NW11",2350,NW11,1058.3333333333333
+181,flat,1,1,0.1,"Maxwell Road, Romford RM7",1050,RM7,1058.3333333333333
+182,flat,2,1,0.5,"Wendover Court, Western Avenue, Acton W3",1500,W3,1058.3333333333333
+183,semi-detached house,3,1,0.3,"Twyford Road, Harrow HA2",2100,HA2,1052
+184,semi-detached house,4,2,0.0,"Bryony Road, London W12",3500,W12,1058.3333333333333
+185,,1,2,0.1,"Battersea Power Station, Nine Elms, London SW8",5417,SW8,1058.3333333333333
+186,flat,2,1,0.2,"Riffel Road, Willesden Green, London NW2",1950,NW2,819
+187,flat,2,2,0.0,"Cadogan Square, Sloane Square, London SW1X",12134,SW1X,2260
+188,terraced house,5,4,0.1,"Ovington Street, Chelsea, London SW3",17334,SW3,2476
+189,flat,3,2,0.1,"Great Portland Street, Marylebone, London W1W",5634,W1W,1055
+190,flat,1,1,0.2,"Oakmere Lane, Potters Bar EN6",1145,EN6,1058.3333333333333
+191,property,4,2,0.1,"Elgar Avenue, Berrylands, Surbiton KT5",2750,KT5,1827
+192,flat,2,1,0.2,"Sheepcote Road, Harrow HA1",1425,HA1,590
+193,flat,3,2,0.1,"Tyssen Street, Hackney, London E8",2990,E8,1299
+194,maisonette,1,1,0.2,"Chipstead Road, Coulsdon CR5",1279,CR5,1058.3333333333333
+195,flat,2,1,0.1,"Chalton Street, Mornington Crescent, London NW1",2600,NW1,882
+196,terraced house,3,1,0.3,"Ampleforth Road, London SE2",1500,SE2,1058.3333333333333
+197,flat,3,3,0.1,"Argyll Road, London W8",3012,W8,1058.3333333333333
+198,maisonette,1,1,0.2,"St. Donatts Road, London SE14",1600,SE14,1058.3333333333333
+199,terraced house,3,2,0.1,"Hurley Road, Greenford UB6",1850,UB6,1058.3333333333333
+200,flat,2,1,0.1,"Coniston Road, Muswell Hill, London N10",2098,N10,1058.3333333333333
+201,flat,1,1,0.1,"3 Thomas Layton Way, Brentford TW8",1750,TW8,488
+202,flat,2,2,0.1,"3 Thomas Layton Way, Brentford TW8",2250,TW8,704
+203,semi-detached house,2,1,0.2,"The Square, Woodford Green IG8",1400,IG8,1058.3333333333333
+204,flat,2,2,0.1,"Kirtling Street, London SW8",4117,SW8,1058.3333333333333
+205,flat,2,2,0.2,"Embassy Gardens, Nine Elms SW11",3900,SW11,1058.3333333333333
+206,flat,1,1,0.1,"Willowbrook House, London N4",2037,N4,1058.3333333333333
+207,flat,3,3,0.1,"Gauging Square, London Dock, London E1W",6600,E1W,1058.3333333333333
+208,flat,1,1,0.1,"Harewood Avenue, Marylebone, London NW1",1993,NW1,1058.3333333333333
+209,flat,3,3,0.0,"Prince Regent Court, London NW8",8450,NW8,1874
+210,flat,1,1,0.1,"Twickenham Road, Isleworth TW7",995,TW7,1058.3333333333333
+211,flat,2,2,0.2,"Arosa Road, Twickenham TW1",2695,TW1,1058.3333333333333
+212,flat,2,1,0.1,"Bonner Hill Road, Norbiton, Kingston Upon Thames KT1",1625,KT1,1058.3333333333333
+213,flat,2,2,0.2,"Millbank Quarter, 9 Millbank, Horseferry Road, Westminster SW1P",6847,SW1P,1058.3333333333333
+214,flat,1,1,0.3,"Scott Ellis Gardens, St Johns Wood, London NW8",1495,NW8,1058.3333333333333
+215,flat,3,2,0.1,"Bowden House, Prince Of Wales Drive SW11",3900,SW11,1058.3333333333333
+216,flat,1,1,0.3,"Union House, Beresford Ave, London HA0",1600,HA0,1058.3333333333333
+217,flat,2,2,0.2,"Palgrave Gardens, Marylebone, London NW1",3575,NW1,1058.3333333333333
+218,terraced house,3,1,0.1,"Felixstowe Road, Edmonton N9",1800,N9,1058.3333333333333
+219,flat,1,1,0.1,"Rendel House, London E14",2253,E14,1058.3333333333333
+220,flat,1,1,0.3,"Braham Court, Blagrove Road, Teddington TW11",1500,TW11,1058.3333333333333
+221,flat,1,1,0.1,"Copers Cope Road, Beckenham BR3",1095,BR3,1058.3333333333333
+222,flat,2,1,0.1,"Garden Road, Richmond TW9",1795,TW9,1058.3333333333333
+223,flat,2,2,0.2,"Palgrave Gardens, Marylebone, London NW1",3293,NW1,1058.3333333333333
+224,flat,1,1,0.2,"45 New Cross Road, London SE14",1620,SE14,732
+225,flat,2,2,0.1,"Handley House, London W6",3120,W6,1058.3333333333333
+226,semi-detached house,3,1,0.2,"Ownsted Hill, New Addington, Croydon CR0",1850,CR0,1058.3333333333333
+227,flat,2,1,0.1,"Chopwell Close, Stratford, London E15",1695,E15,1058.3333333333333
+228,flat,2,2,0.1,"Gloucester Place, Marylebone, London NW1",3250,NW1,1058.3333333333333
+229,detached house,5,4,0.2,"Southwood Avenue, Kingston Upon Thames KT2",6000,KT2,1058.3333333333333
+230,flat,1,1,0.1,"Muswell Road, Muswell Hill N10",1500,N10,1058.3333333333333
+231,flat,2,2,0.2,"Tersha Street, Richmond TW9",2250,TW9,1058.3333333333333
+232,flat,2,2,0.1,"Building 46, Marborough Road, Royal Arsenal SE18",2000,SE18,1042
+233,flat,1,1,0.2,"Violet Close, Hackbridge, Surrey SM6",875,SM6,1058.3333333333333
+234,flat,2,2,0.1,"Albert Street, Camden, London NW1",2383,NW1,1058.3333333333333
+235,flat,1,1,0.4,"Capstan Ride, The Ridgeway, Enfield EN2",1050,EN2,1058.3333333333333
+236,flat,1,1,0.2,"Gainsborough House, Redden Court Road, Essex RM3",1000,RM3,1058.3333333333333
+237,flat,1,1,0.1,"Allsop Place, Marylebone, London NW1",2383,NW1,1058.3333333333333
+238,flat,2,2,0.2,"George Street, Croydon CR0",2238,CR0,1058.3333333333333
+239,flat,2,2,0.2,"George Street, Croydon CR0",2229,CR0,1058.3333333333333
+240,flat,2,2,0.2,"George Street, Croydon CR0",2142,CR0,1058.3333333333333
+241,semi-detached house,3,1,0.3,"Whalebone Road, Dagenham RM8",1650,RM8,1058.3333333333333
+242,flat,1,1,0.2,"Hook Road, Surbiton KT6",1050,KT6,1058.3333333333333
+243,flat,5,3,0.2,"Marmora Road, London SE22",4750,SE22,1058.3333333333333
+244,flat,2,1,0.2,"Ardleigh Road, London N1",1950,N1,445
+245,flat,2,1,0.2,"Shaftesbury Road, Stroud Green, London N19",1712,N19,1058.3333333333333
+246,flat,2,2,0.1,"Marsh Road, Pinner HA5",1500,HA5,1058.3333333333333
+247,terraced house,3,1,0.1,"The Broadway, Greenford, Greater London UB6",2050,UB6,1058.3333333333333
+248,flat,3,2,0.2,"Newfoundland Place, Canary Wharf E14",6933,E14,1058.3333333333333
+249,flat,1,1,0.1,"Camley Street, London N1C",3100,N1C,1058.3333333333333
+250,flat,2,2,0.2,"Newfoundland Place, Canary Wharf E14",3445,E14,1058.3333333333333
+251,flat,2,2,0.1,"Fulham Road, Fulham SW3",4983,SW3,1058.3333333333333
+252,flat,1,1,0.2,"Newfoundland Place, Canary Wharf E14",2773,E14,1058.3333333333333
+253,flat,1,1,0.2,"Newfoundland Place, Canary Wharf E14",2665,E14,1058.3333333333333
+254,flat,2,2,0.1,"Arlington Road, Camden, London NW1",2340,NW1,1058.3333333333333
+255,flat,3,2,0.3,"264 Finchley Road London, London NW3",6500,NW3,1058.3333333333333
+256,flat,2,1,0.1,"Montem Road, London SE23",1750,SE23,1058.3333333333333
+257,maisonette,2,1,0.1,"Balls Pond Road, London N1",1800,N1,1058.3333333333333
+258,flat,2,1,0.2,"Kensington High Street, London W14",2145,W14,1058.3333333333333
+259,flat,2,2,0.1,"Grenan Square, Greenford UB6",2350,UB6,1058.3333333333333
+260,flat,1,1,0.1,"Grenan Square, Greenford UB6",1555,UB6,1058.3333333333333
+261,flat,2,2,0.1,"Lordship Lane, London SE22",2250,SE22,1058.3333333333333
+262,flat,1,1,0.1,"Marylebone Road, Marylebone, Marylebone NW1",2340,NW1,1058.3333333333333
+263,flat,1,1,0.2,"Fulham Road, London SW10",2250,SW10,1058.3333333333333
+264,flat,2,1,0.1,"Argo House, 180 Kilburn Park Road, Maida Vale NW6",2200,NW6,1058.3333333333333
+265,semi-detached house,3,1,0.1,"Pendula Drive, Yeading, Hayes UB4",1800,UB4,1058.3333333333333
+266,flat,1,1,0.2,"13 Ron Leighton Way, East Ham E6",1387,E6,1058.3333333333333
+267,end terrace house,4,2,0.3,"West Terrace, Wyncham Avenue, Sidcup DA15",1900,DA15,1058.3333333333333
+268,flat,3,2,0.1,"Equipment Works, Walthamstow E17",2796,E17,1058.3333333333333
+269,property,2,2,0.1,"Conduit Mews, London W2",4005,W2,848
+270,flat,1,1,0.1,"16 Sutton Court Road, Sutton SM1",2002,SM1,1058.3333333333333
+271,flat,3,2,0.2,"Rutherford House, 483 Battersea Park Road, London SW11",3000,SW11,1058.3333333333333
+272,flat,1,1,0.2,"Station Road, Harrow HA1",1100,HA1,1058.3333333333333
+273,flat,2,2,0.2,"Kew Bridge Court, London W4",1945,W4,1058.3333333333333
+274,flat,2,1,0.1,"Equipment Works, Walthamstow E17",1855,E17,1058.3333333333333
+275,flat,5,4,0.2,"Grove End Road, St Johns Wood NW8",8667,NW8,1058.3333333333333
+276,flat,1,2,0.2,"Parson Street, Hendon, London NW4",1650,NW4,1058.3333333333333
+277,flat,2,2,0.1,"South Quay Square, London E14",3600,E14,1058.3333333333333
+278,terraced house,2,1,0.4,"Douro Street, Bow, London E3",1950,E3,1058.3333333333333
+279,flat,2,1,0.1,"Chiswick Village, London W4",1560,W4,1058.3333333333333
+280,terraced house,3,1,0.1,"Stevens Avenue, Hackney E9",2600,E9,1058.3333333333333
+281,flat,1,1,0.1,"Masson House, Pump House Crescent, Brentford TW8",1600,TW8,1058.3333333333333
+282,flat,2,1,0.2,"Streatham High Road, Norbury SW16",1500,SW16,1058.3333333333333
+283,flat,2,2,0.1,"Abell House, John Islip Street, Westminster, London SW1P",4550,SW1P,1027
+284,,4,3,0.1,"Albion Way, London E6",2600,E6,1514
+285,flat,1,1,0.1,"The Broadway, Potters Bar EN6",1195,EN6,474
+286,flat,1,1,0.1,"The Broadway, Potters Bar EN6",1195,EN6,474
+287,flat,2,1,0.1,"Anerley Road, London SE19",1700,SE19,1058.3333333333333
+288,flat,2,2,0.1,"Cricklewood Broadway, London NW2",1700,NW2,527
+289,flat,1,1,0.1,"Carolina Road, Thornton Heath, Norbury, Croydon CR7",750,CR7,1058.3333333333333
+290,flat,2,1,0.3,"The Gardens, London SE22",1700,SE22,1058.3333333333333
+291,flat,2,1,0.1,"Tolcarne Drive, Pinner HA5",1450,HA5,1058.3333333333333
+292,mews house,2,2,0.2,"Astwood Mews, South Kensington, London SW7",3792,SW7,1058.3333333333333
+293,flat,2,2,0.1,"Tavistock Street, London WC2E",3878,WC2E,1058.3333333333333
+294,flat,1,1,0.3,"York Way, King's Cross N7",2383,N7,1058.3333333333333
+295,flat,3,4,0.1,"Goldhurst House, London W6",8450,W6,2038
+296,flat,1,1,0.0,"Tavern Apartments, Tanners Hill, Deptford, London SE8",1350,SE8,1058.3333333333333
+297,flat,2,1,0.1,"Beverley Court, Wellesley Road, Chiswick, London W4",1900,W4,1058.3333333333333
+298,flat,2,1,0.1,"Toland Square, Roehampton, London, Greater London SW15",1600,SW15,1058.3333333333333
+299,terraced house,2,1,0.1,"Brixham Crescent, Ruislip Manor, Ruislip, Greater London HA4",1400,HA4,1058.3333333333333
+300,flat,2,2,0.0,"Linacre Road, London NW2",1650,NW2,1058.3333333333333
+301,flat,1,1,0.2,"Peabody Estate, Rosendale Road, London SE24",1295,SE24,1058.3333333333333
+302,terraced house,4,2,0.3,"Highlever Road, London W10",5200,W10,1058.3333333333333
+303,terraced house,2,1,0.2,"Moorfield Road, Cowley UB8",1450,UB8,1058.3333333333333
+304,flat,1,1,0.2,"Queens Road, Twickenham TW1",1300,TW1,1058.3333333333333
+305,flat,2,1,0.1,"Dufferin Avenue, Old Street, London EC1Y",3250,EC1Y,1058.3333333333333
+306,flat,2,1,0.1,"East Acton Lane, Acton, London W3",1850,W3,735
+307,flat,1,1,0.1,"Willesden Lane, Kilburn NW6",1300,NW6,398
+308,flat,2,1,0.2,"Hurstbourne Road, London SE23",1500,SE23,1058.3333333333333
+309,flat,2,2,0.2,"Green Lane, Northwood HA6",2150,HA6,1089
+310,flat,2,1,0.3,"The Gardens, East Dulwich, London SE22",1700,SE22,1058.3333333333333
+311,flat,2,2,0.1,"Maida Vale, Maida Vale, London W9",2579,W9,810
+312,flat,1,1,0.3,"Mapleton Road, Wandsworth, London SW18",1500,SW18,491
+313,flat,1,1,0.1,"South End, South Croydon CR0",950,CR0,1058.3333333333333
+314,maisonette,3,2,0.1,"Torriano Avenue, Kentish Town, London NW5",3250,NW5,1397
+315,flat,2,1,0.0,"St James Road, Sutton SM1",1350,SM1,538
+316,flat,1,1,0.0,"Integra House, Wimbledon SW19",1850,SW19,1058.3333333333333
+317,flat,3,2,0.1,"West Heath Avenue, Hampstead, London NW11",3033,NW11,1058.3333333333333
+318,flat,3,1,0.1,"Brookfields Avenue, London CR4",1650,CR4,1058.3333333333333
+319,flat,5,2,0.1,"Cabbell Street, London NW1",4312,NW1,1058.3333333333333
+320,flat,2,2,0.0,"Eton Avenue, Belsize Park, London NW3",2750,NW3,932
+321,flat,1,1,0.2,"Cornwell House, New Market Place, London E6",1400,E6,1058.3333333333333
+322,flat,2,1,0.2,"Ballards Lane, Finchley N3",1550,N3,788
+323,flat,1,1,0.1,"Wem Tower, Wembley HA9",1400,HA9,1058.3333333333333
+324,flat,1,1,0.1,"Skerne Road, Kingston Upon Thames KT2",1350,KT2,1058.3333333333333
+325,flat,1,1,0.2,"Redshank Court, 35 Harrier Road, Colindale NW9",1200,NW9,1058.3333333333333
+326,terraced house,4,2,0.1,"Shouldham Street, London W1H",6478,W1H,1058.3333333333333
+327,flat,5,2,0.1,"Cabbell Street, London NW1",4312,NW1,1058.3333333333333
+328,flat,3,2,0.1,"Camley Street, Kings Cross N1C",4225,N1C,1058.3333333333333
+329,flat,3,2,0.1,"Ballards Lane, Finchley Central, London N3",2100,N3,1058.3333333333333
+330,flat,1,1,0.1,"Wem Tower, Wembley HA9",1495,HA9,1058.3333333333333
+331,flat,1,1,0.3,"Aylsham Drive, Ickenham UB10",1025,UB10,1058.3333333333333
+332,flat,1,1,0.2,"24 Wharf Road, London N1",1995,N1,1058.3333333333333
+333,flat,1,1,0.2,"Meadway Court, Hampstead Garden Suburb, London NW11",1365,NW11,380
+334,flat,3,1,0.1,"Northfield Avenue, Ealing W5",2200,W5,1058.3333333333333
+335,property,3,1,0.3,"Salisbury Road, Carshalton SM5",1900,SM5,1058.3333333333333
+336,semi-detached house,3,1,0.3,"Ridgemount Avenue, Croydon CR0",2600,CR0,1058.3333333333333
+337,flat,2,1,0.2,"Peckham Rye, London SE22",1825,SE22,1058.3333333333333
+338,flat,1,1,0.2,"Kitchener Road, London N17",1300,N17,1058.3333333333333
+339,flat,2,2,0.1,"Deveraux House, Duke Of Wellington Avenue, Royal Arsenal Riverside, Woolwich, London SE18",2000,SE18,1058.3333333333333
+340,flat,2,2,0.1,"Westferry Circus, Canary Wharf E14",3445,E14,973
+341,flat,3,2,0.1,"Greenford House, 2 Jubilee Walk, London WC1X",3900,WC1X,1076
+342,flat,2,1,0.1,"Lorrimore Road, London SE17",1950,SE17,1058.3333333333333
+343,flat,1,2,0.1,"Lower Downs Road, London SW20",1750,SW20,1058.3333333333333
+344,flat,1,1,0.1,"St Marks Road, Bush Hill Park EN1",1100,EN1,1058.3333333333333
+345,flat,2,2,0.2,"Salisbury Road, Worcester Park KT4",1650,KT4,1058.3333333333333
+346,flat,3,2,0.1,"Mount Street, Mayfair W1K",21667,W1K,2315
+347,flat,2,2,0.1,"Mare Street, London Fields, Hackney, London E8",2200,E8,1058.3333333333333
+348,,4,2,0.2,"The Avenue, Beckenham BR3",2700,BR3,1058.3333333333333
+349,flat,3,2,0.1,"Rampart Street, Whitechapel, London E1",2600,E1,1058.3333333333333
+350,flat,1,1,0.2,"Clockhouse Avenue, Barking, London IG11",1350,IG11,1058.3333333333333
+351,flat,4,4,0.1,"Strathmore Court, Park Road, St John's Wood NW8",8883,NW8,1058.3333333333333
+352,flat,2,2,0.1,"Westferry Circus, Canary Wharf E14",3640,E14,1004
+353,flat,3,3,0.2,"Holloway Road, Upper Holloway N7",2752,N7,1058.3333333333333
+354,flat,1,1,0.2,"Milverton Gardens, Seven Kings IG3",1300,IG3,1058.3333333333333
+355,flat,4,2,0.1,"Transept Street, London NW1",3878,NW1,1058.3333333333333
+356,flat,2,1,0.1,"Pelham Court, 145 Fulham Road, Chelsea, London SW3",4247,SW3,1058.3333333333333
+357,flat,2,1,0.1,"Ridgmount Gardens, Bloomsbury WC1E",3012,WC1E,757
+358,terraced house,3,1,0.1,"Hillcrest Road, Bromley BR1",1950,BR1,1058.3333333333333
+359,flat,2,1,0.2,"Hazelmere Road, Northolt UB5",1450,UB5,1058.3333333333333
+360,flat,4,5,0.2,"Lexham Gardens, Kensington High Street W8",8017,W8,1505
+361,flat,2,2,0.2,"Upper Brook Street, Mayfair, London W1K",6000,W1K,1172
+362,flat,2,2,0.3,"Adstock Court, Coleridge Drive, Ruislip HA4",1400,HA4,632
+363,flat,2,1,0.1,"Brett Close, London N16",1800,N16,1058.3333333333333
+364,flat,3,3,0.1,"Kensington Gardens Square, Bayswater W2",5417,W2,928
+365,flat,2,2,0.0,"Queen's Gate, South Kensington, London SW7",3445,SW7,1058.3333333333333
+366,flat,2,2,0.2,"Peckham Rye, Peckham, London SE22",1825,SE22,1058.3333333333333
+367,detached house,3,2,0.1,"Trafalgar Road, Twickenham TW2",4250,TW2,1058.3333333333333
+368,detached house,4,1,0.1,"Church Street, London N9",1800,N9,1058.3333333333333
+369,flat,2,2,0.2,"Liston House, London N21",1550,N21,1058.3333333333333
+370,flat,2,2,0.2,"Brunswick Quay, London SE16",2995,SE16,1058.3333333333333
+371,flat,1,1,0.0,"South Park Hill Road, South Croydon CR2",950,CR2,1058.3333333333333
+372,terraced house,3,3,0.2,"Ainslie Wood Road, Chingford E4",2000,E4,1058.3333333333333
+373,flat,1,1,0.2,"Bartholomew Villas, London NW5",1690,NW5,1058.3333333333333
+374,flat,2,1,0.1,"Windmill Drive, Cricklewood, London NW2",1600,NW2,550
+375,terraced house,4,2,0.2,"Northcote Avenue, Southall UB1",2000,UB1,1058.3333333333333
+376,flat,2,2,0.1,"Worple Road, Wimbledon, London SW19",2600,SW19,1058.3333333333333
+377,flat,2,1,0.1,"Clock House Road, Beckenham BR3",1200,BR3,1058.3333333333333
+378,terraced house,2,1,0.1,"Queen Street, Croydon CR0",1500,CR0,1058.3333333333333
+379,terraced house,5,6,0.2,"Wilton Place, London SW1X",28167,SW1X,3031
+380,end terrace house,3,1,0.1,"Partridge Way, London N22",1900,N22,1058.3333333333333
+381,flat,3,2,0.1,"Gladwin Tower, 50 Wandsworth Road SW8",4767,SW8,1058.3333333333333
+382,flat,2,2,0.1,"Courtfield Gardens, London SW5",3467,SW5,1058.3333333333333
+383,flat,4,2,0.2,"Falling Lane, West Drayton UB7",2000,UB7,1058.3333333333333
+384,semi-detached house,3,1,0.2,"Bridge Road, Chessington KT9",1650,KT9,1058.3333333333333
+385,detached house,5,3,0.2,"Old Park Avenue, London SW12",8250,SW12,1058.3333333333333
+386,flat,2,1,0.2,"Swan Street, Borough, London SE1",2145,SE1,736
+387,flat,2,2,0.3,"Grand Union, Beresford Avenue, London HA0",1950,HA0,810
+388,flat,1,1,0.1,"Thomas Layton Way, Brentford TW8",1795,TW8,1058.3333333333333
+389,flat,1,1,0.1,"Camden Road, Camden NW1",1560,NW1,1058.3333333333333
+390,flat,2,3,0.2,"Central Avenue, London SW6",4291,SW6,1058.3333333333333
+391,end terrace house,3,2,0.1,"Rugby Road, London NW9",1950,NW9,1058.3333333333333
+392,flat,2,1,0.2,"Elmfield Road, East Finchley N2",1400,N2,1058.3333333333333
+393,flat,2,1,0.1,"Headstone Lane, Harrow HA2",1350,HA2,1058.3333333333333
+394,flat,3,2,0.2,"Hutchings Wharf, Canary Wharf E14",3163,E14,1456
+395,flat,2,2,0.1,"The Grange, London, London SE1",2817,SE1,867
+396,maisonette,2,1,0.2,"Tramway Avenue, Stratford E15",1750,E15,1058.3333333333333
+397,flat,1,1,0.1,"Camden Road, London NW1",1560,NW1,1058.3333333333333
+398,flat,1,1,0.2,"Burlington Road, New Malden KT3",1300,KT3,1058.3333333333333
+399,flat,2,1,0.2,"Burlington Road, New Malden KT3",1550,KT3,1058.3333333333333
+400,maisonette,3,2,0.1,"Mylne Close, Upper Mall, London W6",2900,W6,1058.3333333333333
+401,flat,3,2,0.3,"Greenford Quay, Greenford UB6",2650,UB6,1058.3333333333333
+402,flat,2,2,0.3,"Eastbury Avenue, Northwood HA6",1950,HA6,1058.3333333333333
+403,flat,1,1,0.1,"High Point Village, Vantage Building, Hayes UB3",1250,UB3,1058.3333333333333
+404,flat,2,2,0.3,"Greenford Quay, Greenford UB6",2200,UB6,1058.3333333333333
+405,flat,2,2,0.1,"Burton Road, London NW6",2097,NW6,1058.3333333333333
+406,flat,2,1,0.1,"Sheldon Avenue, Highgate N6",2300,N6,872
+407,flat,1,1,0.3,"Greenford Quay, Greenford UB6",1554,UB6,1058.3333333333333
+408,flat,1,1,0.1,"55 Park Lane, Mayfair W1K",3000,W1K,787
+409,flat,2,2,0.1,"Kew Bridge Court, London W4",1945,W4,1058.3333333333333
+410,flat,2,2,0.1,"George Street, Croydon CR0",2081,CR0,1058.3333333333333
+411,detached house,4,1,0.3,"Cranbourne Drive, Pinner HA5",2600,HA5,1574
+412,flat,3,2,0.3,"Lea Bridge Road, London E10",1800,E10,1058.3333333333333
+413,flat,1,2,0.1,"Clarendon Court, Maida Vale, Madia Vale W9",2253,W9,1058.3333333333333
+414,flat,1,1,0.2,"Rosaline Road, Fulham SW6",1995,SW6,1058.3333333333333
+415,flat,3,2,0.2,"Beechcroft Avenue, London NW11",2800,NW11,1058.3333333333333
+416,flat,2,2,0.1,"Regatta Point, Kew Bridge TW8",2750,TW8,1058.3333333333333
+417,flat,2,2,0.2,"Coleman Fields, London N1",2500,N1,978
+418,flat,1,1,0.1,"Belgravia House, 238 Kingston Road, Teddington TW11",1400,TW11,1058.3333333333333
+419,flat,2,1,0.1,"Putney Hill, London SW15",1950,SW15,1058.3333333333333
+420,maisonette,3,1,0.3,"Higher Drive, Purley CR8",1450,CR8,1058.3333333333333
+421,flat,1,1,0.1,"Oak House, 52 Holmesdale Road, Teddington TW11",1400,TW11,1058.3333333333333
+422,flat,4,2,0.1,"Finchley Road, St Johns Wood, London NW8",5308,NW8,1058.3333333333333
+423,flat,1,1,0.1,"Selbourne Avenue, Hounslow TW3",1450,TW3,1058.3333333333333
+424,flat,2,2,0.0,"Binney Street, Mayfair, London W1K",9100,W1K,1058.3333333333333
+425,flat,2,1,0.2,"Upper Grosvenor Street, London W1K",3012,W1K,631
+426,flat,1,1,0.2,"Median Road, Clapton E5",1300,E5,1058.3333333333333
+427,flat,5,4,0.1,"Boydell Court, St. Johns Wood Park, London NW8",8645,NW8,1058.3333333333333
+428,flat,1,1,0.1,"Bowden House, Price Of Wales Drive, Battersea SW11",2500,SW11,1058.3333333333333
+429,flat,2,1,0.1,"Hermon Hill, London E11",1650,E11,1058.3333333333333
+430,flat,2,2,0.1,"The Compton, 30 Lodge Road, London NW8",4983,NW8,1058.3333333333333
+431,flat,2,1,0.3,"Fairweather House, Parkhurst Road, London N7",1750,N7,428
+432,terraced house,6,4,0.2,"Earlsfield Road, London SW18",8000,SW18,1058.3333333333333
+433,flat,3,1,0.3,"Moore House, Grosvenor Waterside, 2 Gatliff Road, London SW1W",5417,SW1W,1093
+434,flat,2,2,0.1,"Arla Place, Ruislip HA4",1500,HA4,1058.3333333333333
+435,terraced house,3,1,0.1,"Carlton Road, London E11",1700,E11,1058.3333333333333
+436,flat,2,2,0.1,"Young Street, Kensington, London W8",5503,W8,1058.3333333333333
+437,flat,2,2,0.1,"Rainville Road, Fulham, London W6",4983,W6,1058.3333333333333
+438,flat,2,2,0.1,"Rainville Road, Fulham, London W6",5525,W6,1058.3333333333333
+439,flat,4,3,0.0,"Cranley Mansions, Gloucester Road, London SW7",19933,SW7,1058.3333333333333
+440,flat,2,1,0.1,"Hamlet Gardens, Chiswick, London W6",3142,W6,1058.3333333333333
+441,flat,3,2,0.1,"Garden House, Kensington Gardens Sq, Kensington, London W2",5417,W2,1058.3333333333333
+442,flat,2,2,0.2,"Lockgate Road, London SW6",3200,SW6,905
+443,flat,1,1,0.2,"44 Bedford Row, Holborn, City WC1R",2383,WC1R,1058.3333333333333
+444,flat,1,1,0.1,"Hill Street, London W1J",2925,W1J,1058.3333333333333
+445,flat,1,1,0.1,"Hill Street, Mayfair, London W1J",2340,W1J,1058.3333333333333
+446,flat,2,2,0.1,"Pelham Court, 145 Fulham Road, Chelsea, London SW3",3423,SW3,1058.3333333333333
+447,flat,1,1,0.1,"Broad House, Harrow HA2",1275,HA2,1058.3333333333333
+448,terraced house,3,3,0.3,"1 Rufford Street, London N1",3250,N1,1065
+449,flat,1,1,0.1,"Fouberts Place, Soho W1F",2600,W1F,1058.3333333333333
+450,flat,2,1,0.2,"Marlowe Gardens, London SE9",1450,SE9,1058.3333333333333
+451,flat,2,2,0.1,"Thomas Layton Way, Brentford TW8",2475,TW8,1058.3333333333333
+452,flat,5,4,0.2,"The Hall, London NW8",8667,NW8,2774
+453,flat,1,1,0.1,"Chesham Street, London SW1X",2817,SW1X,1058.3333333333333
+454,flat,3,2,0.1,"Marsh Road, Pinner HA5",1900,HA5,1058.3333333333333
+455,flat,3,1,0.1,"Ladbroke Grove, London, UK W11",3467,UK W11,1058.3333333333333
+456,flat,3,2,0.3,"4 Peartree Way, London SE10",2450,SE10,1222
+457,flat,3,1,0.1,"Gloucester Mews, London W2",3748,W2,1058.3333333333333
+458,flat,3,1,0.1,"Rochester Avenue, Upton Park E13",1900,E13,1058.3333333333333
+459,flat,1,1,0.1,"Elmcroft Crescent, London NW11",1280,NW11,1058.3333333333333
+460,flat,1,1,0.1,"Monmouth Street, Covent Garden WC2H",3012,WC2H,1058.3333333333333
+461,terraced house,4,2,0.1,"Comerford Road, London SE4",3000,SE4,1058.3333333333333
+462,flat,1,1,0.2,"Falcon Point, Hopton Street, London SE1",1798,SE1,1058.3333333333333
+463,flat,2,2,0.2,"Central Avenue, London SW6",3812,SW6,1058.3333333333333
+464,flat,1,1,0.1,"Grove Hill Road, Camberwell, London SE5",1750,SE5,1058.3333333333333
+465,flat,1,1,0.0,"Queen Victoria Terrace, Sovereign Court, Jewel Square, Wapping, London E1W",1625,E1W,1058.3333333333333
+466,flat,2,2,0.2,"The Modern, 3 Viaduct Gardens, Nine Elms SW11",3900,SW11,1058.3333333333333
+467,end terrace house,7,7,0.2,"Upper Brook Street, Mayfair, London W1K",29900,W1K,1058.3333333333333
+468,semi-detached house,4,2,0.2,"Devonshire Crescent, Mill Hill NW7",3350,NW7,1058.3333333333333
+469,flat,3,2,0.1,"Thomas Layton Way, Brentford TW8",2995,TW8,1058.3333333333333
+470,flat,1,1,0.1,"Pickwick Court, London, Greater London SE9",900,SE9,1058.3333333333333
+471,semi-detached house,2,1,0.1,"Woodrow Avenue, Hayes UB4",1400,UB4,1058.3333333333333
+472,flat,2,2,0.1,"Thomas Layton Way, Brentford TW8",2350,TW8,1058.3333333333333
+473,flat,2,1,0.2,"High Road, North Finchley, London N12",1235,N12,1058.3333333333333
+474,flat,2,1,0.1,"Somerford Grove, Dalston N16",1950,N16,800
+475,flat,2,2,0.1,"Bowden House, London SW11",3380,SW11,1058.3333333333333
+476,flat,1,1,0.1,"Thomas Layton Way, Brentford TW8",1700,TW8,1058.3333333333333
+477,flat,2,1,0.3,"Darwin Close, London N11",1375,N11,1058.3333333333333
+478,detached house,4,2,0.4,"Rectory Park, South Croydon CR2",2400,CR2,1058.3333333333333
+479,flat,2,2,0.2,"Pavilion Apartments, St Johns Wood Road, St John's Wood NW8",4767,NW8,1058.3333333333333
+480,semi-detached house,3,1,0.1,"Edinburgh Road, Sutton SM1",2000,SM1,1058.3333333333333
+481,flat,2,2,0.1,"Fountain Park Way, London W12",3293,W12,1058.3333333333333
+482,terraced house,3,1,0.1,"Cambray Road, London SW12",2817,SW12,1058.3333333333333
+483,flat,2,1,0.2,"Waldronhyrst, South Croydon CR2",1350,CR2,1058.3333333333333
+484,terraced house,3,1,0.1,"Alfred Road, Feltham TW13",1750,TW13,1058.3333333333333
+485,flat,2,2,0.2,"Chandos Way, Golders Green NW11",3000,NW11,1058.3333333333333
+486,flat,1,1,0.1,"Southwark Bridge Road, London SE1",2400,SE1,1058.3333333333333
+487,flat,1,1,0.1,"Princes Square, London W2",2250,W2,1058.3333333333333
+488,terraced house,4,3,0.1,"Loudoun Road, St John's Wood NW8",5525,NW8,1058.3333333333333
+489,flat,2,2,0.1,"Addison Place, Holland Park, London W11",2700,W11,1058.3333333333333
+490,flat,3,2,0.1,"John Donne Way, Prime Place, Greenwich, London SE10",2600,SE10,1058.3333333333333
+491,property,2,1,0.1,"Upper Court Road, Epsom KT19",1450,KT19,1058.3333333333333
+492,end terrace house,2,1,0.2,"Mill Road, Erith DA8",1100,DA8,1058.3333333333333
+493,flat,1,1,0.0,"Buttermere Court, Boundary Road, St Johns Wood NW8",2301,NW8,1058.3333333333333
+494,mews house,4,2,0.1,"Camden Mews, Camden NW1",5850,NW1,1058.3333333333333
+495,semi-detached house,3,1,0.3,"Howcroft Crescent, London N3",2500,N3,1058.3333333333333
+496,flat,2,1,0.1,"Coomb House, Isleworth TW7",1912,TW7,1058.3333333333333
+497,flat,1,1,0.0,"Gransden Avenue, London Fields E8",2475,E8,1058.3333333333333
+498,flat,1,1,0.2,"Trinity Walk, Woolwich SE18",1374,SE18,1058.3333333333333
+499,property,4,2,0.0,"Chippenham Mews, London W9",3948,W9,1058.3333333333333
+500,flat,1,1,0.2,"Edgware Hills, Edgware HA8",1405,HA8,1058.3333333333333
+501,end terrace house,3,2,0.2,"Lullington Road, Anerley, London SE20",1800,SE20,1058.3333333333333
+502,flat,1,1,0.2,"Canterbury Housing, Croydon CR0",1225,CR0,1058.3333333333333
+503,flat,2,2,0.0,"Kingsland High Street, London E8",2700,E8,1058.3333333333333
+504,end terrace house,2,1,0.1,"Naylor Road, London SE15",2200,SE15,1058.3333333333333
+505,flat,1,1,0.2,"Pressing Lane, Hayes UB3",1305,UB3,1058.3333333333333
+506,property,4,2,0.2,"Alwyne Square, London N1",5997,N1,1058.3333333333333
+507,terraced house,2,1,0.3,"Ashwood Road, Potters Bar EN6",1500,EN6,1058.3333333333333
+508,flat,1,1,0.4,"The Robinson, Wembley HA9",1608,HA9,1058.3333333333333
+509,flat,4,4,0.4,"The Robinson, Wembley HA9",3373,HA9,1058.3333333333333
+510,terraced house,4,2,0.1,"Kimberley Avenue, Seven Kings, Ilford IG2",2150,IG2,1058.3333333333333
+511,flat,1,1,0.2,"Alto, Wembley Park HA9",1741,HA9,1058.3333333333333
+512,flat,2,2,0.3,"Madison, Wembley Park HA9",2226,HA9,1058.3333333333333
+513,flat,1,1,0.2,"Landsby Building, Wembley Park HA9",1864,HA9,1058.3333333333333
+514,flat,1,1,0.3,"Canada Gardens, Wembley HA9",1549,HA9,1058.3333333333333
+515,flat,2,2,0.2,"Landsby Building, Wembley Park HA9",2341,HA9,1058.3333333333333
+516,terraced house,3,1,0.1,"Bruce Road, Harrow HA3",1795,HA3,1058.3333333333333
+517,flat,2,1,0.1,"Fulham Road, London SW3",4225,SW3,1058.3333333333333
+518,flat,2,2,0.8,"The Long Room Apartments, Royal Quay, Harefield UB9",1495,UB9,1058.3333333333333
+519,flat,1,1,0.3,"Beton, Wembley Park HA9",1928,HA9,1058.3333333333333
+520,flat,1,1,0.1,"Ferrum, Wembley Park HA9",1522,HA9,1058.3333333333333
+521,flat,2,1,0.1,"John Silkin Lane, London SE8",1650,SE8,1058.3333333333333
+522,flat,1,1,0.1,"St. Catherines Close, London SW20",1350,SW20,1058.3333333333333
+523,flat,1,1,0.1,"St. Mary's Road, London SE15",1500,SE15,1058.3333333333333
+524,flat,1,1,0.2,"Caraway Heights, London E14",1690,E14,1058.3333333333333
+525,flat,2,1,0.1,"Axminster Road, London N7",1800,N7,1058.3333333333333
+526,flat,1,1,0.2,"Peabody Buildings, Rosendale Road, London SE24",1300,SE24,398
+527,flat,2,1,0.1,"Fieldgate Street, London E1",1850,E1,1058.3333333333333
+528,flat,2,2,0.1,"Garrett Street, London EC1Y",3683,EC1Y,1058.3333333333333
+529,flat,1,1,0.1,"Landmark Heights, 172 Daubeney Road, London E5",1350,E5,1058.3333333333333
+530,flat,3,2,0.1,"Old Nichol Street, London E2",4247,E2,1058.3333333333333
+531,flat,3,3,0.1,"Redchurch Street, London E2",6000,E2,1058.3333333333333
+532,flat,1,1,0.3,"Elm Park Road, London N21",1000,N21,1058.3333333333333
+533,flat,1,1,0.2,"Brownlow Road, Bounds Green, London N11",1495,N11,549
+534,flat,2,2,0.1,"Sloane Court East, London SW3",4983,SW3,1058.3333333333333
+535,flat,2,1,0.2,"Alder Road, Sidcup DA14",1195,DA14,1058.3333333333333
+536,flat,1,1,0.2,"Westow Hill, London SE19",1195,SE19,1058.3333333333333
+537,flat,1,1,0.2,"Kensington Court, London W8",2275,W8,1058.3333333333333
+538,terraced house,3,1,0.2,"Fairfax Road, London N8",2300,N8,1058.3333333333333
+539,flat,1,1,0.2,"Mountgrove Road, Highbury N5",2102,N5,1058.3333333333333
+540,flat,2,2,0.1,"Mill Place, Kingston Upon Thames KT1",1675,KT1,1058.3333333333333
+541,flat,1,1,0.1,"Kennington Oval, London SE11",1750,SE11,1058.3333333333333
+542,flat,1,1,0.0,"Central Park Road, London E6",1350,E6,1058.3333333333333
+543,terraced house,2,1,0.0,"Lower Road, Harrow HA2",1550,HA2,1058.3333333333333
+544,flat,1,1,0.1,"Northcote Road, Croydon CR0",1050,CR0,1058.3333333333333
+545,detached house,3,1,0.2,"Armfield Road, Enfield EN2",1850,EN2,1058.3333333333333
+546,detached house,7,3,0.1,"Briar Walk, Putney, London SW15",10000,SW15,1058.3333333333333
+547,terraced house,4,3,0.2,"Elsenham Street, London SW18",3500,SW18,1058.3333333333333
+548,flat,1,1,0.1,"Marsh Wall, London E14",2000,E14,1058.3333333333333
+549,flat,2,1,0.1,"Broughton Place, London E17",1600,E17,1058.3333333333333
+550,flat,1,1,0.1,"Kensington Gardens Square, London W2",2817,W2,1058.3333333333333
+551,flat,4,3,0.3,"30 Gatliff Road, London SW1W",6500,SW1W,1058.3333333333333
+552,flat,2,2,0.1,"Poole Street, London N1",2102,N1,1058.3333333333333
+553,flat,1,1,0.3,"York Road, London SW11",1400,SW11,1058.3333333333333
+554,flat,1,1,0.1,"Ongar Road, London SW6",1746,SW6,1058.3333333333333
+555,flat,2,2,0.4,"Malthouse Road, London SW11",3150,SW11,1058.3333333333333
+556,flat,3,2,0.0,"Lansdowne Road, Bromley BR1",1750,BR1,1058.3333333333333
+557,flat,2,1,0.1,"Haling Park Road, South Croydon CR2",1300,CR2,1058.3333333333333
+558,flat,2,2,0.1,"Colmore House, Frazer Nash Close, Isleworth TW7",1750,TW7,1058.3333333333333
+559,terraced house,2,1,0.0,"Lime Street, London E17",1800,E17,1058.3333333333333
+560,detached house,4,2,0.1,"West Road, London W5",4250,W5,1058.3333333333333
+561,terraced house,2,1,0.3,"Chancery Lane, Beckenham BR3",1500,BR3,1058.3333333333333
+562,flat,1,1,0.1,"Hamilton Road, London W5",1750,W5,1058.3333333333333
+563,flat,2,1,0.1,"Cecile Park, Crouch End, London N8",1603,N8,1058.3333333333333
+564,flat,3,2,0.1,"Park View Road, London N3",2750,N3,1058.3333333333333
+565,flat,4,2,0.1,"Park View Road, London N3",2750,N3,1058.3333333333333
+566,flat,2,1,0.2,"High Road, North Finchley N12",1235,N12,1058.3333333333333
+567,detached house,6,4,0.1,"Briar Walk, Putney, London SW15",10000,SW15,1058.3333333333333
+568,flat,1,1,0.1,"Camden Road, Camden NW1",1560,NW1,1058.3333333333333
+569,property,2,2,0.2,"Upper Brook Street, Mayfair, London W1K",6045,W1K,1058.3333333333333
+570,flat,2,2,0.2,"Yeomans Row, Knightsbridge, London SW3",3142,SW3,1058.3333333333333
+571,flat,3,2,0.2,"Stafford Terrace, Kensington, London W8",5417,W8,1058.3333333333333
+572,flat,2,3,0.1,"Kingsland Road, Hackney, London N1",3100,N1,1058.3333333333333
+573,flat,4,2,0.1,"Warrington Crescent, Little Venice, London W9",5612,W9,1058.3333333333333
+574,terraced house,5,3,0.1,"Dalyell Road, London SW9",5833,SW9,2005
+575,flat,2,2,0.1,"Fairmont Avenue, Canary Wharf, London E14",2300,E14,1058.3333333333333
+576,flat,1,1,0.1,"Broadway Market, London E8",1500,E8,1058.3333333333333
+577,flat,2,1,0.2,"Whytecliffe Road North, Purley, Surrey CR8",1150,CR8,1058.3333333333333
+578,mews house,3,2,0.0,"Penrose Mews, 327 Lillie Road, Fulham, London SW6",3467,SW6,1058.3333333333333
+579,maisonette,3,2,0.0,"Lambton Road, Raynes Park, London SW20",2250,SW20,898
+580,flat,2,1,0.1,"Thrawl Street, Spitalfields, London E1",3275,E1,803
+581,flat,1,1,0.2,"Holloway Road, Holloway, London N7",1900,N7,531
+582,flat,3,2,0.2,"Hurley House, West Drayton UB7",1575,UB7,891
+583,terraced house,3,1,0.1,"Brightfield Road, London SE12",2200,SE12,1058.3333333333333
+584,flat,2,2,0.1,"Greenwich High Road, London SE10",1950,SE10,1058.3333333333333
+585,flat,2,1,0.0,"Fitzjohns Avenue, London NW3",1950,NW3,1058.3333333333333
+586,flat,1,1,0.1,"Coventry Road, Ilford IG1",1250,IG1,1058.3333333333333
+587,flat,3,2,0.1,"Barkston Gardens, London SW5",5044,SW5,1058.3333333333333
+588,flat,2,2,0.2,"Yashin House, Wembley HA9",1850,HA9,1058.3333333333333
+589,flat,1,1,0.2,"Sidcup, Kent DA14",1950,DA14,1058.3333333333333
+590,flat,2,1,0.3,"Hatton Court, Chislehurst BR7",1400,BR7,1058.3333333333333
+591,flat,2,2,0.1,"Hillside, London NW10",1650,NW10,1058.3333333333333
+592,flat,1,1,0.1,"Bramble House, London E3",1184,E3,1058.3333333333333
+593,flat,3,1,0.1,"Brookstone Court, Peckham Rye, London SE15",1600,SE15,1058.3333333333333
+594,flat,3,2,0.1,"Merchant Square East, London W2",6327,W2,1058.3333333333333
+595,flat,2,2,0.0,"Westferry Road, London E14",3640,E14,1058.3333333333333
+596,terraced house,2,1,0.3,"Franklin Way, Croydon CR0",1300,CR0,588
+597,flat,1,1,0.2,"Wardour Mews, London W1F",2383,W1F,1058.3333333333333
+598,flat,1,1,0.0,"Electric Avenue, London SW9",1725,SW9,1058.3333333333333
+599,flat,1,1,0.1,"London Road, Morden SM4",1400,SM4,1058.3333333333333
+600,flat,2,1,0.3,"Hertford Road, Enfield EN3",1350,EN3,1058.3333333333333
+601,terraced house,4,1,0.2,"Gorringe Park Avenue, Mitcham CR4",2000,CR4,1058.3333333333333
+602,maisonette,3,3,0.1,"Shoot Up Hill, London NW2",2750,NW2,1058.3333333333333
+603,terraced house,3,2,0.1,"Garratt Terrace, London SW17",2400,SW17,1058.3333333333333
+604,flat,2,1,0.1,"Rupert Street, Soho W1D",3163,W1D,902
+605,flat,1,1,0.3,"Elm Park Road, Winchmore Hill, London N21",1000,N21,366
+606,terraced house,3,2,0.2,"Clitheroe Avenue, Harrow HA2",2000,HA2,1058.3333333333333
+607,semi-detached house,3,1,0.1,"Grange Road, South Croydon CR2",1750,CR2,1058.3333333333333
+608,property,2,1,0.1,"Capworth Street, London E10",1700,E10,1058.3333333333333
+609,maisonette,2,1,0.3,"Melina Close, Hayes UB3",1250,UB3,1058.3333333333333
+610,flat,1,1,0.1,"Monmouth Street, Covent Garden WC2H",3012,WC2H,729
+611,flat,1,1,0.1,"Fouberts Place, London W1F",2600,W1F,568
+612,flat,1,1,0.1,"Cumming Street, London N1",1650,N1,1058.3333333333333
+613,flat,2,2,0.2,"Dundee Wharf, 100 Three Colt Street, London E14",2700,E14,1058.3333333333333
+614,flat,2,2,0.1,"Queens Rd, Hendon NW4",2650,NW4,1058.3333333333333
+615,flat,2,2,0.1,"Kensington Mansions, Trebovir Road, London SW5",3250,SW5,1058.3333333333333
+616,flat,3,4,0.2,"Cashmere Wharf, London Dock E1W",6200,E1W,1058.3333333333333
+617,flat,2,1,0.1,"Driffield Road, Bow, London E3",2250,E3,1058.3333333333333
+618,flat,2,1,0.0,"Royal Mint Street, Tower Hill E1",2500,E1,1058.3333333333333
+619,flat,3,3,0.1,"Young Street, London W8",30117,W8,1058.3333333333333
+620,flat,2,2,0.1,"Bedingfeld House, 13 Leamore Street, Hammersmith, London W6",3207,W6,1058.3333333333333
+621,flat,1,1,0.1,"5 New Tannery Way, London SE1",2492,SE1,1058.3333333333333
+622,flat,2,1,0.2,"Oak Hill Grove, Surbiton KT6",1650,KT6,1058.3333333333333
+623,semi-detached house,5,3,0.2,"Stanmore, Harrow HA7",5000,HA7,1058.3333333333333
+624,flat,1,1,0.2,"The Avenue, Surbiton, Surrey KT5",1200,KT5,1058.3333333333333
+625,flat,2,2,0.0,"Block C, 2 Station Grove, London HA0",1735,HA0,699
+626,flat,1,1,0.1,"Lambros House, Pentonville Road, London N1",1800,N1,1058.3333333333333
+627,flat,1,1,0.1,"Old School Court, Drapers Road, London N17",1400,N17,1058.3333333333333
+628,flat,2,2,0.2,"Brackley Road, Beckenham BR3",1700,BR3,1058.3333333333333
+629,flat,2,1,0.1,"Kingston Hill, Kingston Upon Thames KT2",1750,KT2,1058.3333333333333
+630,flat,2,1,0.1,"Rye Lane, London SE15",1695,SE15,1058.3333333333333
+631,flat,1,1,0.1,"Park Road, London NW8",2253,NW8,331
+632,flat,3,2,0.1,"Merchant Square East, London W2",6414,W2,923
+633,flat,2,1,0.3,"Brenthurst Road, London NW10",1750,NW10,1058.3333333333333
+634,maisonette,2,1,0.2,"Glenhill Close, Finchley N3",1500,N3,1058.3333333333333
+635,flat,2,3,0.1,"Holland Park, London W11",5417,W11,1360
+636,terraced house,2,1,0.1,"Barclay Road, London E17",1795,E17,1058.3333333333333
+637,flat,2,2,0.2,"The Mews, Norbury Crescent, London SW16",1700,SW16,1046
+638,flat,1,1,0.1,"Bermondsey Square, London SE1",1950,SE1,1058.3333333333333
+639,flat,1,1,0.4,"Underhill Road, London SE22",1250,SE22,1058.3333333333333
+640,flat,2,1,0.2,"Gloucester Gardens, London W2",2300,W2,1058.3333333333333
+641,maisonette,2,1,0.1,"Child's Street, Earls Court SW5",2210,SW5,1058.3333333333333
+642,equestrian property,1,1,0.3,"Anglian Industrial Estate, Barking IG11",1700,IG11,1058.3333333333333
+643,flat,2,1,0.3,"Makepeace Road, Northolt UB5",1275,UB5,1058.3333333333333
+644,flat,3,3,0.3,"L-000268, 2 Prospect Way, Battersea SW11",6283,SW11,1058.3333333333333
+645,flat,2,2,0.4,"Thornes House, London SW11",4052,SW11,1058.3333333333333
+646,terraced house,4,3,0.1,"Swaffield Road, London SW18",3750,SW18,1058.3333333333333
+647,flat,2,2,0.1,"Strafford Road, Twickenham TW1",1450,TW1,1058.3333333333333
+648,flat,2,1,0.2,"Robinson Road, London SW17",1650,SW17,1058.3333333333333
+649,flat,1,1,0.1,"Lisgar Terrace, West Kensington W14",2250,W14,1058.3333333333333
+650,flat,2,2,0.3,"Lookwood Place, Chingford E4",1500,E4,1058.3333333333333
+651,flat,3,1,0.2,"Auckland Road, Battersea, London SW11",4200,SW11,1058.3333333333333
+652,flat,2,1,0.0,"Lordship Lane, East Dulwich, London SE22",1550,SE22,1058.3333333333333
+653,flat,3,2,0.1,"Finchley Road, London NW8",5308,NW8,1058.3333333333333
+654,flat,3,1,0.2,"Goldhurst Terrace, South Hampstead NW6",2448,NW6,1058.3333333333333
+655,semi-detached house,4,2,0.3,"Hill Road, Pinner HA5",2800,HA5,1058.3333333333333
+656,flat,1,1,0.1,"Cadogan Road, Surbiton KT6",1175,KT6,1058.3333333333333
+657,flat,2,2,0.4,"Thornes House, London SW11",5005,SW11,1058.3333333333333
+658,flat,4,3,0.1,"Old Brompton Road, London SW5",6933,SW5,1058.3333333333333
+659,flat,2,2,0.2,"Cumberland Avenue, London NW10",1925,NW10,1058.3333333333333
+660,flat,3,2,0.3,"Park Road, Crouch End N8",2600,N8,1058.3333333333333
+661,terraced house,4,2,0.1,"Princes Gardens, London, Greater London W3",2800,W3,1058.3333333333333
+662,flat,2,2,0.1,"Thorpedale Road, London N4",1850,N4,1058.3333333333333
+663,flat,1,1,0.2,"Justin Close, Brentford TW8",1300,TW8,510
+664,flat,2,1,0.1,"Chetwynd Villas, Chetwynd Road, London NW5",2167,NW5,1058.3333333333333
+665,flat,1,1,0.1,"Essex Road, London N1",1450,N1,1058.3333333333333
+666,detached house,3,2,0.1,"Pembroke Gardens Close, London W8",8450,W8,1058.3333333333333
+667,flat,1,1,0.1,"35 Wellesley Road, London CR0",1200,CR0,1058.3333333333333
+668,flat,1,1,0.1,"35 Wellesley Road, London CR0",1150,CR0,1058.3333333333333
+669,flat,4,1,0.1,"12 Finchley Road, London NW8",53507,NW8,1058.3333333333333
+670,end terrace house,5,2,0.1,"Highfield Close, London NW9",3200,NW9,1058.3333333333333
+671,flat,2,2,0.1,"Albion Drive, London E8",2500,E8,1058.3333333333333
+672,flat,1,1,0.3,"Limes Road, Beckenham, Kent BR3",1250,BR3,549
+673,flat,4,2,0.1,"Finchley Rd, London NW8",5308,NW8,1058.3333333333333
+674,terraced house,3,2,0.2,"Clarence Road, Wimbledon SW19",3000,SW19,1058.3333333333333
+675,flat,2,1,0.2,"Edith Terrace, London SW10",3012,SW10,832
+676,flat,2,1,0.2,"Royal Avenue, Worcester Park KT4",1450,KT4,1058.3333333333333
+677,terraced house,2,1,0.2,"Huntsman Road, Ilford IG6",1500,IG6,1058.3333333333333
+678,flat,3,2,0.2,"Egerton Place, Knightsbridge, London SW3",8450,SW3,1241
+679,flat,3,2,0.2,"Egerton Place, Knightsbridge, London SW3",17334,SW3,1241
+680,flat,2,1,0.1,"Semley Place, Sloane Square, London SW1W",2167,SW1W,806
+681,flat,1,1,0.1,"Merchant Square, Marylebone, London W2",6067,W2,566
+682,flat,4,2,0.1,"Finchley Road, London NW8",5308,NW8,1316
+683,flat,1,1,0.1,"Mile End Road, London E1",1500,E1,1058.3333333333333
+684,terraced house,3,1,0.2,"Dane Road, Southall, Middlesex UB1",1850,UB1,1058.3333333333333
+685,flat,2,1,0.1,"Byron Road, Harrow HA1",1250,HA1,1058.3333333333333
+686,flat,1,1,0.1,"Harrowdene Gardens, Teddington TW11",1275,TW11,1058.3333333333333
+687,flat,4,2,0.2,"99 Hamilton Terrace, London NW8",3983,NW8,1058.3333333333333
+688,,1,2,0.0,"Farrier Walk, Chelsea SW10",4008,SW10,1256
+689,flat,1,1,0.4,"Brimsdown Avenue, Enfield EN3",1000,EN3,1058.3333333333333
+690,flat,1,1,0.2,"Willesden Green, London NW2",1400,NW2,1058.3333333333333
+691,flat,1,1,0.1,"Sensa Apartments 16 Royal Engineers Way, London NW7",1450,NW7,1058.3333333333333
+692,flat,1,1,0.3,"Bow Quarter, London E3",1475,E3,1058.3333333333333
+693,flat,1,1,0.2,"Greencroft Gardens, South Hampstead NW6",1885,NW6,1058.3333333333333
+694,flat,1,1,0.1,"Wandsworth Road, London SW8",1800,SW8,1058.3333333333333
+695,flat,1,1,0.1,"South Grove, London E17",1395,E17,1058.3333333333333
+696,flat,2,1,0.2,"Harlech Road, London N14",1550,N14,1058.3333333333333
+697,flat,3,2,0.3,"The Reflection, North Woolwich E16",1800,E16,865
+698,flat,1,1,0.1,"Haydon's Road, Wimbledon SW19",1595,SW19,1058.3333333333333
+699,flat,3,2,0.1,"Merchant Square, Paddington W2",6608,W2,912
+700,maisonette,2,1,0.0,"York Close, Hanwell W7",1400,W7,504
+701,flat,4,4,0.2,"Lexham Gardens, Kensington W8",8017,W8,1058.3333333333333
+702,flat,3,2,0.1,"Merchant Square, Paddington W2",6327,W2,944
+703,maisonette,3,2,0.2,"Howard Road, London E17",2500,E17,1058.3333333333333
+704,flat,2,1,0.2,"Surbiton Hill Park, Surbiton KT5",1350,KT5,1058.3333333333333
+705,flat,2,2,0.1,"Newark Street, London E1",2000,E1,1058.3333333333333
+706,flat,2,1,0.1,"Parsons Mead, 58 Holmesdale Road, Teddington TW11",1400,TW11,1058.3333333333333
+707,flat,1,2,0.1,"Thames Close, Hampton TW12",1350,TW12,1058.3333333333333
+708,mews house,3,1,0.1,"Denham Green Close, Denham UB9",1200,UB9,1058.3333333333333
+709,terraced house,3,1,0.2,"Beauchamp Road, Sutton SM1",1550,SM1,1058.3333333333333
+710,maisonette,2,1,0.2,"Kings Grove, Gidea Park, Romford RM1",1300,RM1,1058.3333333333333
+711,flat,1,1,0.1,"Hill Street, Mayfair W1J",2925,W1J,420
+712,flat,4,2,0.1,"Finchley Road, London NW8",5308,NW8,1058.3333333333333
+713,flat,1,1,0.1,"Crozier House, 17 Wilkinson Road, London SW8",1350,SW8,1058.3333333333333
+714,maisonette,2,1,0.2,"Shaef Way, Teddington TW11",1750,TW11,1058.3333333333333
+715,flat,1,1,0.3,"Beeching House, 40 Hampton Road, Teddington TW11",1450,TW11,1058.3333333333333
+716,flat,1,1,0.1,"Consort Rise House, 199-203 Buckingham Palace Rd, Belgravia, Westminster, London SW1W",2167,SW1W,1058.3333333333333
+717,terraced house,4,2,0.1,"Albert Road, New Malden KT3",2350,KT3,1058.3333333333333
+718,maisonette,2,1,0.2,"South Row, London SE3",2000,SE3,1058.3333333333333
+719,flat,2,2,0.1,"Pelham Court, Chelsea SW3",3878,SW3,843
+720,flat,1,1,0.1,"Kensington Garden Square, London W2",2817,W2,315
+721,flat,2,2,0.1,"Pelham Court, Chelsea SW3",3423,SW3,688
+722,flat,2,1,0.1,"Canonbury Square, Islington, London N1",2708,N1,1058.3333333333333
+723,flat,2,2,0.0,"Blyth Road, Hayes UB3",1950,UB3,1058.3333333333333
+724,flat,1,1,0.2,"Avenue South, Surbiton KT5",995,KT5,1058.3333333333333
+725,flat,2,2,0.1,"40-48 High Street, Acton W3",1825,W3,1058.3333333333333
+726,semi-detached house,3,1,0.0,"London Road, North Cheam, Sutton SM3",1850,SM3,89
+727,flat,1,1,0.1,"Greville Street, London EC1N",1712,EC1N,515
+728,mews house,3,3,0.2,"Northwick Close, St. John's Wood, London NW8",4000,NW8,1058.3333333333333
+729,flat,4,2,0.1,"Finchley Road, St John's Wood NW8",5308,NW8,1058.3333333333333
+730,terraced house,3,1,0.2,"The Chase, Chadwell Heath, Romford, Essex RM6",1650,RM6,1058.3333333333333
+731,terraced house,4,1,0.3,"Waltham Way, London E4",2100,E4,1058.3333333333333
+732,flat,2,2,0.4,"Thornes House, Nine Elms SW11",4052,SW11,864
+733,semi-detached house,3,1,0.2,"Hall Lane, Hendon NW4",1975,NW4,1058.3333333333333
+734,flat,1,1,0.1,"Cobalt Point, 38 Millharbour, Canary Wharf, London E14",1820,E14,1058.3333333333333
+735,property,6,3,0.3,"Ranulf Road, Hocroft Estate NW2",8017,NW2,1058.3333333333333
+736,bungalow,3,1,0.1,"Mossford Lane, Ilford IG6",1750,IG6,1058.3333333333333
+737,flat,4,2,0.0,"Finchley Road, St.Johns Wood NW8",5308,NW8,1316
+738,flat,2,2,0.3,"London Road, Mitcham, Surrey CR4",1799,CR4,1058.3333333333333
+739,end terrace house,4,2,0.1,"Beverley Road, London E4",2295,E4,1058.3333333333333
+740,flat,3,2,0.2,"One Blackfriars, 1-16 Blackfriars Road, London SE1",8667,SE1,1058.3333333333333
+741,,2,1,0.1,"Micheldever Road, London SE12",1600,SE12,1058.3333333333333
+742,semi-detached house,3,2,0.3,"Wycliffe Road, Wimbledon SW19",2600,SW19,1058.3333333333333
+743,flat,1,1,0.0,"Integra House, Wimbledon SW19",1750,SW19,1058.3333333333333
+744,flat,1,1,0.1,"Wem Tower, Wembley HA9",1250,HA9,1058.3333333333333
+745,flat,2,1,0.2,"London Road, Kingston KT2",1650,KT2,1058.3333333333333
+746,flat,1,1,0.1,"Napier Road, Leytonstone E11",1300,E11,1058.3333333333333
+747,flat,3,2,0.2,"Charcot Road, London NW9",2123,NW9,900
+748,flat,2,2,0.1,"George Street, Croydon CR0",1920,CR0,1058.3333333333333
+749,maisonette,3,1,0.1,"Stanstead Road, London SE23",1900,SE23,1058.3333333333333
+750,flat,1,1,0.1,"Blyth Road, Hayes UB3",1475,UB3,1058.3333333333333
+751,flat,2,2,0.1,"Binney Street, Mayfair W1K",9100,W1K,1008
+752,flat,1,1,0.1,"Wem Tower, Wembley HA9",1274,HA9,1058.3333333333333
+753,flat,3,2,0.0,"Camley Street, London N1C",3878,N1C,1058.3333333333333
+754,flat,2,2,0.1,"Thyme Close, London SE3",1375,SE3,1058.3333333333333
+755,flat,2,1,0.2,"Darkes Lane, Potters Bar EN6",1395,EN6,624
+756,maisonette,2,1,0.1,"Uplands Road, Crouch End, London N8",1695,N8,1058.3333333333333
+757,end terrace house,4,3,0.1,"Leeward Gardens, London SW19",3400,SW19,1367
+758,flat,3,2,0.0,"Pan Peninsula Square, London E14",5997,E14,1058.3333333333333
+759,flat,2,2,0.3,"Greenford Quay, Greenford UB6",2309,UB6,1058.3333333333333
+760,flat,2,1,0.1,"Tennyson Apartments, 1 Saffron Central Square, Croydon CR0",1400,CR0,1058.3333333333333
+761,flat,2,2,0.2,"Ruislip, London HA4",1600,HA4,1058.3333333333333
+762,flat,3,3,0.0,"Abbeville Road, London SW4",3500,SW4,1058.3333333333333
+763,flat,1,1,0.2,"Earlsfield Road, London SW18",1300,SW18,1058.3333333333333
+764,flat,2,2,0.2,"Mount Ararat Road, Richmond, Surrey TW10",2700,TW10,1058.3333333333333

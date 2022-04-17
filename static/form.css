@@ -1,0 +1,62 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    color: #6B8FCE;
+    text-align: center;
+    font-family: "Avenir Black", "Franklin Gothic";
+    font-weight: 800;
+    margin-top: 40px;
+}
+
+h3 {
+    color: darkgrey;
+    text-align: center;
+    font-family: "Avenir Black", "Franklin Gothic";
+    font-weight: 400;
+}
+
+h4 {
+    color: darkgrey;
+    text-align: center;
+    font-family: "Avenir Black", "Franklin Gothic";
+    font-weight: 50;
+}
+
+select {
+    appearance: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    padding-right: 15px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjp4mTGR8Jel4tfjnyoZRvFaid0_SCplfSGdhzJXHogt-me-CgHBJovuir3axWg8i4WV8&usqp=CAU');
+    background-repeat: no-repeat;
+    background-position: calc(100% - 15px) center;
+    background-size: 20px;
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    height: 75px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    border: none;
+    border: 3px solid #dddddd78;
+    margin-bottom: 40px;
+    border-radius: 100px;
+}
+
+input {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    height: 75px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    border: none;
+    border: 3px solid #dddddd78;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-radius: 100px;
+}

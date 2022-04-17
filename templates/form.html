@@ -1,0 +1,32 @@
+<html>
+  <head>
+    <link rel = "stylesheet" href = '/static/form.css'/>
+  </head>
+  <body>
+
+    <h1>Which postcode are you looking to rent in?</h1>
+      <form method = "POST">
+        <select name = postcode>
+          {% for postcode in postcodes %}
+            {% if selected_postcode == postcode %}
+              <option value = "{{postcode}}" selected = 'selected'>{{postcode}}</option>
+            {% else %}
+              <option value = "{{postcode}}">{{postcode}}</option>
+            {% endif %}
+          {% endfor %}
+        </select>
+        <input type = "submit" value = "Submit" />
+      </form>
+
+    <h1>What are the details of your listing?</h1>
+    <h3>Please input the details in the following format:</h3>
+    <h4>[house type (e.g. flat)], [# of bedrooms], [# of bathrooms], [distance to nearest station (in miles)], [postcode], [size (in sq. ft.)]</h4>
+    <form method = "POST">
+      <div class = "search_box">
+        <input name = "prop_details" id = "prop_details">
+        <input type = "submit">
+      </div>
+    </form>
+
+  </body>
+</html>
