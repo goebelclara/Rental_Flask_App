@@ -5,7 +5,7 @@ App to visualize data for London's rental market and provide pricing estimates
 Clara G.
 
 ## Project description:
-The rental market in London is subject to high demand for accommodation, frequently at short notice, and is tightly controlled by professional landlords or real estate companies with long-term experience surrounding the dynamics of the rental market. This causes a fundamental power imbalance between landlords and prospective tenants: Tenants frequently cannot reliably determine whether they are paying a fair amount for an accommodation.<br>
+The rental market in London is subject to high demand for accommodation, frequently at short notice, and is tightly controlled by professional landlords or real estate companies with long-term experience surrounding the market dynamics. This causes a fundamental power imbalance between landlords and prospective tenants: Tenants frequently cannot reliably determine whether they are paying a fair amount for an accommodation.<br>
 To address this challenge, I have developed an application providing prospective tenants with valuable information in just one click. Tenants can gain insights surrounding a given postcode and rental listings in this area through a visually appealing dashboard. Moreover, both tenants and landlords can enter the details of a given listing they are seeking to rent or let and receive a real-time estimate of its fair market value based on cutting-edge machine learning algorithms.<br>
 This application was developed using Flask, AWS Lambda, AWS ECR, Docker, Spark, an AWS Postgres database, and Airflow.
 
@@ -34,6 +34,7 @@ This application was developed using Flask, AWS Lambda, AWS ECR, Docker, Spark, 
 #### Other:
 **schema.sql**: Schema for database<br>
 **requirements.txt**: Requirements for Flask app<br>
+**Dockerfile**: Dockerfile to create image for Flask app<br>
 
 ## User inputs required:
 **ml_models.py**: Set Spark home and Java home<br>
