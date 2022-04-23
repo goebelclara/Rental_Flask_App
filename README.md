@@ -37,7 +37,8 @@ https://user-images.githubusercontent.com/96081105/164914998-50a42593-f636-4144-
 #### Other:
 **schema.sql**: Schema for database<br>
 **requirements.txt**: Requirements for Flask app<br>
-**Dockerfile**: Dockerfile to create image for Flask app<br>
+**Dockerfile**: Dockerfile to create image for Flask app for deployment via AWS Lambda<br>
+**zappa_settings.json**: File containing Zappa settings for deployment via AWS Lambda<br>
 
 ## User inputs required:
 **ml_models.py**: Set Spark home and Java home<br>
