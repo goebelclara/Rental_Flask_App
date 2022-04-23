@@ -9,6 +9,9 @@ The rental market in London is subject to high demand for accommodation, frequen
 To address this challenge, I have developed an application providing prospective tenants with valuable information in just one click. Tenants can gain insights surrounding a given postcode and rental listings in this area through a visually appealing dashboard. Moreover, both tenants and landlords can enter the details of a given listing they are seeking to rent or let and receive a real-time estimate of its fair market value based on cutting-edge machine learning algorithms.<br>
 This application was developed using Flask, AWS Lambda, AWS ECR, Docker, Spark, an AWS Postgres database, and Airflow.
 
+## Demo:
+https://user-images.githubusercontent.com/96081105/164914998-50a42593-f636-4144-b66b-2d6a3b24ff38.mp4
+
 ## Included files: 
 #### IPYNB files:
 **1 rentals_data_webscraping**: Webscraping and cleaning listings data from Zoopla and Rightmove<br>
