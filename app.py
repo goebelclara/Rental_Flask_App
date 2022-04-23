@@ -1,6 +1,6 @@
 #Importing libraries
 from flask import Flask, request, render_template, redirect, url_for
-#from flask_ngrok import run_with_ngrok
+from flask_ngrok import run_with_ngrok
 
 import pandas as pd
 
@@ -17,7 +17,7 @@ from ml_models import fit_and_evaluate
 
 #Instantiating app
 app = Flask(__name__)
-#run_with_ngrok(app)
+run_with_ngrok(app)
 
 #Setting landing page with input form
 @app.route('/', methods = ['GET', 'POST'])

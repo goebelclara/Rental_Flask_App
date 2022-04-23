@@ -130,3 +130,8 @@ dmypy.json
 
 # Mac 
 *.DS_Store
+
+# Folders
+/spark
+ngrok
+ngrok-v3-stable-darwin-amd64.zip
